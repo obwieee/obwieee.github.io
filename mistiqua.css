@@ -1,0 +1,149 @@
+<style>
+
+.leftnavbar {
+position: absolute; 
+top: 40px;
+left: 0;
+}
+
+.rightnavbar {
+  position: absolute;
+  top: 40px;
+  right: 0;
+}
+
+.icon {
+  width: 10%;
+  height: 20%;
+  position: absolute;
+  top: 2px;
+  left: 5px;
+}
+
+.h1 {
+  font-size: 75px;
+  font-family: "GEORGIA";
+  padding-left: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px;
+  background-color: #845d68;
+  text-align: left;
+}
+
+.p1 {
+  font-size: 20px;
+  font-family: "Verdana";
+  padding-left: 430px;
+  padding-top: 2px;
+  padding-bottom: 10px;
+  margin: 0px;
+  background-color: #845d68;
+  text-align: left;
+}
+
+body {
+    background-image: url(mistiqua.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+  }
+ul {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px
+  overflow: hidden;
+  display: block;
+  background-color: silver ;
+  float: left;
+  width: 100%;
+
+}
+
+li {
+  display: inline;
+  float: left;
+  padding: 0px;
+  text-decoration: none;
+  color: black;
+
+}
+
+.home {
+  display: inline;
+  float: left;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;  
+  color: black;
+}
+
+.contacts {
+  display: inline;
+  float: left;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+  
+}
+
+.aboutus {
+  display: inline;
+  float: left;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+  
+}
+
+.services {
+  display: inline;
+  float: left;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+  
+}
+
+.background {
+  margin-right: 40px; 
+  display: inline;
+  float: left;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+  overflow: hidden;
+  font-size: 13px;
+}
+
+a {
+  display: block;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+}
+
+li :hover {
+  background-color: #e04165;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+
+}
+</style>
